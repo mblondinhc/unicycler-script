@@ -1,4 +1,3 @@
-#!/bin/bash
 
 #save the script (use the exact name, ex script_unicycler_20211008.sh) in the last commun repositories where the reads data files are
 # in the terminal, change directories to reach the same last commun repositories
