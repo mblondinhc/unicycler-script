@@ -1,10 +1,5 @@
 #!/bin/bash
 
-# sauvegarde le ficher ci dessous dans le répertoire 9508B, nommé script.sh
-# déplace toi dans le répertoire 9508B dans le terminal cd .....
-# chmod +x script.sh
-# ./script.sh
-
 short1=(
 	./raw_reads/FE9508BPD/FE9508BPD_MER-2021-007776_trimmed_R1_fastq.gz
 	./raw_reads/FE9508BPB/FE9508BPB_MER-2021-007777_trimmed_R1_fastq.gz
