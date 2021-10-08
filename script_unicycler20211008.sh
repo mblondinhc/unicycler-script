@@ -25,6 +25,5 @@ do
 		--short2 "${short2[$i]}" \
 		--out "${out[$i]}" \
 		--mode normal -t5 \
-    --min_fasta_length 1000
-    
-    done
+		--min_fasta_length 1000
+done
